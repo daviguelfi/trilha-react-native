@@ -13,3 +13,5 @@ expo init
 ```bash
 expo start
 ```
+
+*se não der para fazer algumas coisas, deve ser por causa da api não estar em pé, fizemos com base em uma api local no computador do professor
