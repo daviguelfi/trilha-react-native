@@ -8,9 +8,6 @@ npm install or yarn
 ```
 depois para rodar
 ```bash
-expo init
-```
-```bash
 expo start
 ```
 
