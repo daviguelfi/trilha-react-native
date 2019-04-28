@@ -1,6 +1,6 @@
 const CONSTANTS = {
   API: {
-    BASE: 'https://602a35ab.ngrok.io/api',
+    BASE: 'https://602a35ab.ngrok.io/api', //ngrok api
     SIGN_IN: '/login/',
     REGISTER: '/register/',
     TOPICS: '/topics/',
